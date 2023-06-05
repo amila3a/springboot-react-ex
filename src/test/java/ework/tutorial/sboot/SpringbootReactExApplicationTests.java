@@ -9,9 +9,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-class SpringbootReactEx1ApplicationTests {
+class SpringbootReactExApplicationTests {
 	
-	public static Logger logger = LoggerFactory.getLogger(SpringbootReactEx1ApplicationTests.class);
+	public static Logger logger = LoggerFactory.getLogger(SpringbootReactExApplicationTests.class);
 
 	@Test
 	void contextLoads() {
