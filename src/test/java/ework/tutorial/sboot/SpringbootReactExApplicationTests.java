@@ -1,5 +1,7 @@
 package ework.tutorial.sboot;
 
+import static org.junit.Assert.assertEquals;
+
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.slf4j.Logger;
@@ -14,14 +16,11 @@ class SpringbootReactExApplicationTests {
 	public static Logger logger = LoggerFactory.getLogger(SpringbootReactExApplicationTests.class);
 
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 		logger.info("executing test");
 		assertEquals(true, true);
 	}
 
-	private void assertEquals(boolean b, boolean c) {
-		// TODO Auto-generated method stub
-		
-	}
+
 
 }
