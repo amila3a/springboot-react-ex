@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ework.tutorial.sboot</groupId>
-	<artifactId>springboot-react-ex1</artifactId>
+	<artifactId>springboot-react-ex</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-react-ex1</name>
+	<name>springboot-react-ex</name>
 	<description>Course api with data</description>
 	<properties>
 		<java.version>17</java.version>
